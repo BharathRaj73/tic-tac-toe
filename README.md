@@ -11,7 +11,7 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 
 **1. Clone the repository to your directory:**
 
-&nbsp;&nbsp; `git clone -https://github.com/deepme987/TicTacToe.git`
+&nbsp;&nbsp; `https://github.com/BharathRaj73/tic-tac-toe`
  
 **2. Ensure you've the required libraries:**
 
